@@ -2,3 +2,4 @@ This is the sdk file
 
 edit1: This file is edited for branch1
 edit2: This file is edited for master
+edit3: THIS IS FOR BOTH MASTER AND BRANCH1
