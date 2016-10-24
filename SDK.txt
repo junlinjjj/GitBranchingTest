@@ -1,1 +1,9 @@
 This is the sdk file
+
+edit1: This file is edited for branch1
+<<<<<<< HEAD
+edit2: This file is edited for branch1 again
+edit3: Edited this file for branch1
+=======
+edit2: This file is edited for master
+>>>>>>> master

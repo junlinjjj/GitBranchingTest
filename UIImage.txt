@@ -1,1 +1,9 @@
 This is the UI file for Image
+
+<<<<<<< HEAD
+edit1: edited content for branch1
+edit2: edited content for branch1 again
+=======
+edit 1: edited UIImage for master
+edit 2: edited UIImage for master again
+>>>>>>> master
