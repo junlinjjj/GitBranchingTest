@@ -4,3 +4,5 @@ edit1: This file is edited for branch1
 edit2: This file is edited for branch1 again
 edit3: Edited this file for branch1
 edit4: THIS EDIT IF FOR BOTH MASTER AND BRANCH1
+edit5: This file is edited for master
+edit6: THIS IS FOR BOTH MASTER AND BRANCH1
