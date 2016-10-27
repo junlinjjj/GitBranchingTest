@@ -3,4 +3,6 @@ This is the sdk file
 edit1: JUST EDITED THIS AGAIN AND AGAIN
 edit2: added some variables
 edit3: added some functions
+edit2: CHANGED THIS
+edit3: CHANGED THIS TOO
 edit4: asdsadasdasdasdasdadasdsadsa
