@@ -1,3 +1,3 @@
 This is the sdk file
 
-edit1: EDITED SOMTHING IN DETACHED HEAD
+edit1: added some variables
